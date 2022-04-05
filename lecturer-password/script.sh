@@ -1,0 +1,1 @@
+openssl passwd -1 -table -salt Ynt5vLPQ -in rockyou.txt > grep $1$Ynt5vLPQ$FqmNnL5O9C59equlR12F11
